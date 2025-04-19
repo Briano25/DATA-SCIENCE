@@ -12,7 +12,7 @@ print("Standard Deviation:", statistics.stdev(scores))
 
 
 n=23
-m=10
+m=5
 
 quotient=z=n//m
 remainder=p=n%m
